@@ -35,3 +35,6 @@
 </a>
 <a href="https://www.kaggle.com/yashagrawal300">
   <img align="left" alt="Yash Agrawal Kaggle" width="40px" src="https://github.com/yashagrawal300/yashagrawal300/blob/master/Kaggle.png" />
+  
+  
+ <a herf ="https://yashagrawal300.github.io/yashagrawal/">Take a Look</a>
