@@ -9,8 +9,8 @@
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/JAVA.png" width=60> | <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/js.png" width=60> | <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/python.svg" width=60> | <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/C%2B%2B.png" width=60>|
-|:---:|:---:|:---:| :--: |
+|<img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/JAVA.png" width=60> | <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/js.png" width=60> | <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/python.svg" width=60> | <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/C%2B%2B.png" width=60>| <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/reactlogo.png" width = 60>|
+|:---:|:---:|:---:| :--: | :--: |
 
 <p>
 
