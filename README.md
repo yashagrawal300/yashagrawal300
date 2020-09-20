@@ -15,8 +15,8 @@
 <p>
 
 ### Tools :fire:
-|<img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/Android%20studio.jpg" width=60> | <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/pycharm.jpg" width=60> | <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/intellig.png" width=60> |
-|:---:|:---:|:---:|
+|<img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/Android%20studio.jpg" width=60> | <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/pycharm.jpg" width=60> | <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/intellig.png" width=60> | <img src = "https://github.com/yashagrawal300/yashagrawal300/blob/master/webstromlogo.jpg" width =60> |
+|:---:|:---:|:---:| :---: |
 
 <p>
 
