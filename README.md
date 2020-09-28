@@ -37,3 +37,8 @@
   <img align="left" alt="Yash Agrawal Kaggle" width="40px" src="https://github.com/yashagrawal300/yashagrawal300/blob/master/Kaggle.png" />
   </a>
   
+<p>
+  
+ <img src = "https://profile-counter.glitch.me/%7Byashagrawal300%7D/count.svg">
+</p>
+  
