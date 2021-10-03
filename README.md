@@ -4,7 +4,7 @@
   <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <b>Yash Agrawal</b> currently a Third Year CSE student at <a href="http://www.medicaps.ac.in/">@Medicaps_University :school: </a> and aspiring software developer:computer:. Interested in working on backend, API's, Databases and also have beginner-intermediate a knoweldge of Data Science. Mostly I do Competative Programming  :bulb: and I love problem solving. :neutral_face:
+    I'm <b>Yash Agrawal</b> currently a Final Year CSE student at <a href="http://www.medicaps.ac.in/">@Medicaps_University :school: </a> and aspiring software developer:computer:. Interested in working on backend, API's, Databases and also have beginner-intermediate a knoweldge of Data Science. Mostly I do Competative Programming  :bulb: and I love problem solving. :neutral_face:
   </samp>
 </p>
 
